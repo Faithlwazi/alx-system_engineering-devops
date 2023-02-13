@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd 10 -n 10 my_file
+tail /etc/passwd
