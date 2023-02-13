@@ -1,1 +1,1 @@
-Shell I/0 redirections
+Shell l/0 redirections
